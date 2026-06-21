@@ -1,0 +1,42 @@
+[
+    {
+        "num_cores": 5,
+        "deadline_miss_ratio": 0.6908077570346264,
+        "avg_response_time": 18.462717472649167,
+        "total_energy": 605.9048399999772,
+        "mode_switches": 5.0,
+        "total_blocking_time": 2343.7099999999723
+    },
+    {
+        "num_cores": 10,
+        "deadline_miss_ratio": 0.4300938855013845,
+        "avg_response_time": 14.053599588756649,
+        "total_energy": 1171.824564999954,
+        "mode_switches": 10.0,
+        "total_blocking_time": 3110.939999999961
+    },
+    {
+        "num_cores": 15,
+        "deadline_miss_ratio": 0.24714839748329664,
+        "avg_response_time": 10.897984196532297,
+        "total_energy": 1688.738359999935,
+        "mode_switches": 14.5,
+        "total_blocking_time": 2231.65999999997
+    },
+    {
+        "num_cores": 20,
+        "deadline_miss_ratio": 0.20121906736504763,
+        "avg_response_time": 9.07711010817137,
+        "total_energy": 2044.358569999924,
+        "mode_switches": 17.8,
+        "total_blocking_time": 1965.824999999973
+    },
+    {
+        "num_cores": 25,
+        "deadline_miss_ratio": 0.1438781535081647,
+        "avg_response_time": 8.633618068306115,
+        "total_energy": 2506.907804999913,
+        "mode_switches": 21.4,
+        "total_blocking_time": 1424.5899999999806
+    }
+]

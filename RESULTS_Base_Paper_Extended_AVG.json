@@ -1,0 +1,42 @@
+[
+    {
+        "num_tasks": 25,
+        "deadline_miss_ratio": 0.1140464066794695,
+        "avg_response_time": 8.154089040810586,
+        "total_energy": 817.6624499999759,
+        "mode_switches": 6.6,
+        "total_blocking_time": 222.35499999999692
+    },
+    {
+        "num_tasks": 40,
+        "deadline_miss_ratio": 0.16701805465654138,
+        "avg_response_time": 8.74184261199187,
+        "total_energy": 950.5797899999674,
+        "mode_switches": 8.2,
+        "total_blocking_time": 620.3299999999911
+    },
+    {
+        "num_tasks": 60,
+        "deadline_miss_ratio": 0.205400899719073,
+        "avg_response_time": 9.963181707060198,
+        "total_energy": 1093.5414399999572,
+        "mode_switches": 9.7,
+        "total_blocking_time": 1212.9149999999836
+    },
+    {
+        "num_tasks": 80,
+        "deadline_miss_ratio": 0.3055840359442255,
+        "avg_response_time": 11.979044639344423,
+        "total_energy": 1152.9426599999551,
+        "mode_switches": 9.9,
+        "total_blocking_time": 2201.6799999999703
+    },
+    {
+        "num_tasks": 100,
+        "deadline_miss_ratio": 0.41247468276689503,
+        "avg_response_time": 13.826173736530597,
+        "total_energy": 1178.4750849999534,
+        "mode_switches": 9.9,
+        "total_blocking_time": 2782.559999999966
+    }
+]
